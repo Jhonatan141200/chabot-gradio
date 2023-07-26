@@ -14,7 +14,8 @@ El desarollo de esta app forma parte de nuestro proyecto titulado "IMPLEMENTACIÃ
    
    ![image](https://github.com/Jhonatan141200/chabot-gradio/assets/83673179/88a6dd21-c6ec-4df7-a3a2-3b0f2084f536)
 
-## UI de la app
+## UI de la app  - DESKTOP
 ![image](https://github.com/Jhonatan141200/chabot-gradio/assets/83673179/38d89817-365a-4efc-b3a6-cb4049e8ee26)
 
+## UI de la app  - MOBILE
 ![image](https://github.com/Jhonatan141200/chabot-gradio/assets/83673179/537d994c-0d06-46be-a815-f53ef9d74e3b)
